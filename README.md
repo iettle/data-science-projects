@@ -2,14 +2,15 @@
 
 | **Project Name** | **Description** | **Skillset** |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [Telecom Customer Churn](https://github.com/iettle/data-science-projects/blob/main/15-churn-factors.ipynb) | Create model to determine factors most likely to lead to customer churn. | Python, Pandas, NumPy, Scikit-Learn, CatBoost, LightGBM |
+| [Taxi Order Forecasting](https://github.com/iettle/data-science-projects/blob/main/14-taxi-order-forecast.ipynb) | Time series analysis to attract more ridesharing drivers during peak airport hours. | Python, Pandas, NumPy, Scikit-Learn, CatBoost, LightGBM, XGBoost |
+| [Customer Age Prediction](https://github.com/iettle/data-science-projects/blob/main/13-customer-age-prediction.ipynb) | Build neural network to determine the age of customers. | Python, Pandas, NumPy, Matplotlib, Tensorflow |
+| [IMBD Movie Review Sentiment Analysis](https://github.com/iettle/data-science-projects/blob/main/12-imdb-movie-reviews.ipynb) | NLP task to train model to detect positive and negative reviews. | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| [Car Market Value Prediction](https://github.com/iettle/data-science-projects/blob/main/11-car-market-value.ipynb) | Determine the market value of a car based on technical specifications. Choose model based on quality, speed, and training time.  | Python, Pandas, NumPy, Scikit-Learn, CatBoost, LightGBM, XGBoost |
+| [Client Insurance Benefits](https://github.com/iettle/data-science-projects/blob/main/10-insurance-customer-benefits.ipynb) | Find similar customers and predict which insurance benefits each customer is likely to have. | Python, Pandas, NumPy, Seaborn, Scikit-Learn |
+| [Gold Recovery From Ore](https://github.com/iettle/data-science-projects/blob/main/09-gold-recovery.ipynb) | Predict the amount of gold recovered from gold ore based on extraction and purification processes. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
+| [Choosing Well Location](https://github.com/iettle/data-science-projects/blob/main/08-well-location-prediction.ipynb) | Determine which of three locations will be the most profitable for a new oil well to be built. | Python, Pandas, NumPy, Scipy, Scikit-Learn |
+| [Predicting Customer Churn](https://github.com/iettle/data-science-projects/blob/main/07-customer-churn.ipynb) | Use data on clients' past behavior to build a model to predict whether a customer is likely to churn. | Python, Pandas, Scikit-Learn |
 | [Passenger Preferences for Ridesharing](https://github.com/iettle/data-science-projects/blob/main/06-passanger_preferences.ipynb) | Compare data of competing ridesharing services to determine what factors, such as weather or dropoff location, lead to additional rides. | Python, Pandas, Scipy |
 | [Game Success](https://github.com/iettle/data-science-projects#:~:text=05%2Dhistorical_game_analysis.ipynb) | Analyze historical data of video games across years, platforms, and genres to determine which factors must likely contribute to a game's success. | Python, Pandas, NumPy, Mathplotlib, Scipy |
 | [Phone Plan Analysis](https://github.com/iettle/data-science-projects/blob/main/04-phone_plan_analysis.ipynb) | Compare two prepaid calling plans to determine which plan the company should focus marketing efforts on. | Python, Pandas, Matplotlib, Scipy |
