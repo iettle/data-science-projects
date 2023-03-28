@@ -1,4 +1,4 @@
-16 projects created as part of Yandex's Data Science Bootcamp.
+16 projects created as part of Yandex's Data Science Bootcamp (WWC Scholarship).
 
 | **Project Name** | **Description** | **Skillset** |
 |---|---|---|
